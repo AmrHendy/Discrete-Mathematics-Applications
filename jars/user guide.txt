@@ -1,0 +1,6 @@
+to open the .jar file to be able to run the program you can use one of 
+the following two methods :
+
+1) just click on discrete.bat and it will run discrete.jar file.
+2) open cmd and then go to the directory where discrete.jar exists then write this
+command in cmd "java -jar discrete.jar" without double quotes .
